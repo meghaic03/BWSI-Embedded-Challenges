@@ -1,0 +1,48 @@
+intro_python
+/embsec/intro_python/read_example: embsec{read_example_33b2320d1d24be66}
+/embsec/intro_python/write_example: embsec{write_example_56bce6d277c460f9}
+   
+review_python 
+/embsec/review_python/splitting_integers: embsec{splitting_integers_5f97be811a7fbf85}
+/embsec/review_python/skeleton_script: embsec{skeleton_script_1e25788df3860d44}
+/embsec/review_python/integer_flipping: embsec{integer_flipping_cc4d6f57fc9254c7}
+    
+intro_c
+/embsec/intro_c/read_example: embsec{read_example_33b2320d1d24be66} 
+/embsec/intro_c/write_example: embsec{write_example_56bce6d277c460f9}
+    
+protocol_lab
+/embsec/protocol_lab/sending_data: embsec{sending_data_1af8d9d77b07e884}
+/embsec/protocol_lab/heartbeat: embsec{heartbeat_f0130bf2f53314ce}
+/embsec/protocol_lab/noise: embsec{noise_441126973f962992} 
+    
+review_c
+/embsec/review_c/int_to_bin: embsec{int_to_bin_0dd54f66b2314ae6}
+/embsec/review_c/anagram: embsec{anagram_3bc666b94928e9ce}
+    
+flash example
+/embsec/flash_example/flash_example: embsec{flash_example_2f42587c704ef557}
+
+uart c
+/embsec/uart_c/uart_challenge: embsec{uart_challenge_c05cd136e2168e71}
+
+design
+/embsec/design/fw_protect: embsec{fw_protect_b9d4326240c079e8}
+/embsec/design/fw_update: embsec{fw_update_20ef48882974720a}
+
+interrupt c
+/embsec/interrupt_c/interrupt_challenge: embsec{interrupt_challenge_1f13d3aab87c6dff}
+
+aes_python
+/embsec/aes_python/aes_decrypt: embsec{aes_decrypt_46a31124f08437d0}
+
+hmac_python
+/embsec/hmac_python/hmac_generate: embsec{hmac_generate_19dc2851160268e2}
+/embsec/hmac_python/hmac_verify: embsec{hmac_verify_77572a05cea5fa3a}
+
+one time pad
+/embsec/one_time_pad/xor: embsec{xor_25139486e4c88862}
+/embsec/one_time_pad/two_time_pad: embsec{two_time_pad_2d310fc072c36b6d}
+
+spa_lab
+/embsec/spa_lab/spa_easy: embsec{spa_easy_24b900f284e2181b}
